@@ -12,3 +12,4 @@
 
 ![preview img](/preview.png)
 
+google.com, pub-8307952753373127, DIRECT, f08c47fec0942fa0
